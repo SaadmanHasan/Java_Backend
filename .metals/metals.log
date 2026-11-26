@@ -8179,3 +8179,32 @@ Nov 26, 2026 10:45:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancella
 WARNING: Unmatched cancel notification for request id 240
 2026.11.26 10:45:42 WARN  javac exited with exit code 1
 2026.11.26 10:45:42 INFO  time: compiled Java_Backend in 4s
+2026.11.26 10:47:40 INFO  compiling java_backend (11 java sources)
+2026.11.26 10:47:42 WARN  javac exited with exit code 1
+2026.11.26 10:47:42 INFO  time: compiled Java_Backend in 1.67s
+Nov 26, 2026 10:47:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 318
+Nov 26, 2026 10:47:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 320
+Nov 26, 2026 10:47:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 322
+Nov 26, 2026 10:47:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 328
+2026.11.26 10:47:58 INFO  compiling java_backend (11 java sources)
+2026.11.26 10:48:00 WARN  javac exited with exit code 1
+2026.11.26 10:48:00 INFO  time: compiled Java_Backend in 2.45s
+2026.11.26 10:48:42 INFO  compiling java_backend (11 java sources)
+2026.11.26 10:48:46 WARN  javac exited with exit code 1
+2026.11.26 10:48:46 INFO  time: compiled Java_Backend in 4.18s
+Nov 26, 2026 10:50:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 385
+2026.11.26 10:52:35 INFO  compiling java_backend (11 java sources)
+2026.11.26 10:52:41 INFO  time: compiled Java_Backend in 5.56s
+Nov 26, 2026 10:58:25 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 424
+Nov 26, 2026 11:08:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 512
+Nov 26, 2026 11:08:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 516
+Nov 26, 2026 11:17:46 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
